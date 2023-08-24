@@ -1,4 +1,4 @@
-exercise counter
+## exercise counter
 
 Quick start:
 
