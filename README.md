@@ -1,4 +1,4 @@
-# cwGp4RcJ
+exercise counter
 
 Quick start:
 
